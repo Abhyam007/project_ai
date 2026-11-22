@@ -1,0 +1,110 @@
+# Byte-compiled / optimized / C-extensions
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Environments and Secrets
+.env
+.env.*
+!.env.example
+secrets.json
+
+# AI / ML Models, Checkpoints & Weights
+*.pt
+*.pth
+*.pwf
+*.onnx
+*.safetensors
+*.bin
+*.h5
+*.tflite
+*.ckpt
+checkpoints/
+models/*.pt
+models/*.pth
+models/*.safetensors
+models/*.bin
+
+# Datasets and Large Files
+data/
+datasets/
+raw_data/
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.h5
+*.hdf5
+
+# Logs & Experiment Tracking
+logs/
+*.log
+runs/
+wandb/
+mlruns/
+lightning_logs/
+tensorboard/
+
+# IDEs and Code Editors
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+*~
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
