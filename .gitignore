@@ -108,3 +108,7 @@ tensorboard/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+
+#Mine Dummy TestinG Files
+/utils/documents/
